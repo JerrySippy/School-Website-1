@@ -1,21 +1,20 @@
 .menu {
-    position: fixed;
-    background: white;
-    width: 100%;
-    margin-top: 0px;
-    top: 0px;
-    z-index: 10;
-  }
-  .my_nav_bar {
-    position: sticky;
-    top: 0;
-    z-index: 99999;
-  }
-  #contact {
-    background-color: darkgrey;
-  }
-  body {
-    margin: 0;
-    padding-top: 800px;
-    text-align: center;
-  }
+  position: fixed;
+  background: white;
+  width: 100%;
+  margin-top: 0px;
+  top: 0px;
+  z-index: 10;
+}
+.my_nav_bar {
+  position: sticky;
+  top: 0;
+  z-index: 99999;
+}
+#contact {
+  background-color: darkgrey;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
